@@ -1,0 +1,620 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-12-10T20:01:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/922546295",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "西安市红会医院(高铁新城院区)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.9447098,
+              34.3922023
+            ],
+            [
+              108.9410123,
+              34.3906317
+            ],
+            [
+              108.9424752,
+              34.3872433
+            ],
+            [
+              108.9436944,
+              34.3875738
+            ],
+            [
+              108.9470748,
+              34.3885264
+            ],
+            [
+              108.9447098,
+              34.3922023
+            ]
+          ]
+        ]
+      },
+      "id": "way/922546295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/969670608",
+        "addr:city": "西安",
+        "addr:district": "未央区",
+        "addr:housenumber": "8",
+        "addr:postcode": "710000",
+        "addr:province": "陕西",
+        "addr:street": "育新路",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "西航医院"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.9532713,
+              34.3536863
+            ],
+            [
+              108.953248,
+              34.352634
+            ],
+            [
+              108.9554602,
+              34.3526395
+            ],
+            [
+              108.9554836,
+              34.353678
+            ],
+            [
+              108.9532713,
+              34.3536863
+            ]
+          ]
+        ]
+      },
+      "id": "way/969670608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/969677249",
+        "addr:city": "西安",
+        "addr:district": "未央区",
+        "addr:postcode": "710000",
+        "addr:province": "陕西",
+        "addr:street": "凤城五路",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "长庆兴隆园医院"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.9492396,
+              34.3311046
+            ],
+            [
+              108.9492252,
+              34.3305228
+            ],
+            [
+              108.9509609,
+              34.3305245
+            ],
+            [
+              108.9509835,
+              34.3310944
+            ],
+            [
+              108.9492396,
+              34.3311046
+            ]
+          ]
+        ]
+      },
+      "id": "way/969677249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/969794213",
+        "addr:city": "西安",
+        "addr:district": "未央区",
+        "addr:housenumber": "55",
+        "addr:postcode": "710000",
+        "addr:province": "陕西",
+        "addr:street": "凤城六路",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "未央华瑞医院"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.937769,
+              34.3353333
+            ],
+            [
+              108.937769,
+              34.335097
+            ],
+            [
+              108.9384955,
+              34.3351006
+            ],
+            [
+              108.9384867,
+              34.3353206
+            ],
+            [
+              108.937769,
+              34.3353333
+            ]
+          ]
+        ]
+      },
+      "id": "way/969794213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/969842445",
+        "addr:city": "西安",
+        "addr:district": "未央区",
+        "addr:postcode": "710000",
+        "addr:province": "陕西",
+        "addr:street": "凤城七路",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "西安经开妇幼医院"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.9182018,
+              34.3387459
+            ],
+            [
+              108.9181908,
+              34.3381479
+            ],
+            [
+              108.9189899,
+              34.3381442
+            ],
+            [
+              108.9189679,
+              34.3387514
+            ],
+            [
+              108.9182018,
+              34.3387459
+            ]
+          ]
+        ]
+      },
+      "id": "way/969842445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/969842471",
+        "addr:city": "西安",
+        "addr:district": "未央区",
+        "addr:housenumber": "111",
+        "addr:postcode": "710000",
+        "addr:province": "陕西",
+        "addr:street": "凤城四路",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "西安急救中心"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.91695,
+              34.3302286
+            ],
+            [
+              108.9171675,
+              34.328725
+            ],
+            [
+              108.9180298,
+              34.3287751
+            ],
+            [
+              108.9178579,
+              34.3302975
+            ],
+            [
+              108.91695,
+              34.3302286
+            ]
+          ]
+        ]
+      },
+      "id": "way/969842471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/969958529",
+        "addr:city": "西安",
+        "addr:district": "未央区",
+        "addr:housenumber": "9",
+        "addr:postcode": "710000",
+        "addr:province": "陕西",
+        "addr:street": "凤城三路",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "西安凤城医院"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.934376,
+              34.3248782
+            ],
+            [
+              108.9343598,
+              34.3239963
+            ],
+            [
+              108.9361052,
+              34.3239292
+            ],
+            [
+              108.9360862,
+              34.3248491
+            ],
+            [
+              108.934376,
+              34.3248782
+            ]
+          ]
+        ]
+      },
+      "id": "way/969958529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/970029657",
+        "addr:city": "西安",
+        "addr:district": "未央区",
+        "addr:housenumber": "17",
+        "addr:postcode": "710000",
+        "addr:province": "陕西",
+        "addr:street": "文景路",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "长安医院"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.9333978,
+              34.3238441
+            ],
+            [
+              108.933363,
+              34.3219201
+            ],
+            [
+              108.9368372,
+              34.3219129
+            ],
+            [
+              108.9368226,
+              34.3237433
+            ],
+            [
+              108.9333978,
+              34.3238441
+            ]
+          ]
+        ]
+      },
+      "id": "way/970029657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/970029678",
+        "addr:city": "西安",
+        "addr:district": "未央区",
+        "addr:housenumber": "32",
+        "addr:postcode": "710000",
+        "addr:province": "陕西",
+        "addr:street": "凤城二路",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "西安海红医院"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920116,
+              34.3178664
+            ],
+            [
+              108.9200807,
+              34.3174162
+            ],
+            [
+              108.9205384,
+              34.3174201
+            ],
+            [
+              108.9205054,
+              34.3178567
+            ],
+            [
+              108.920116,
+              34.3178664
+            ]
+          ]
+        ]
+      },
+      "id": "way/970029678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/971087010",
+        "addr:city": "西安",
+        "addr:district": "未央区",
+        "addr:postcode": "710000",
+        "addr:province": "陕西",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "西安交大二附院整合心血管病医院"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.9489993,
+              34.296058
+            ],
+            [
+              108.9489993,
+              34.2953843
+            ],
+            [
+              108.9506615,
+              34.2953792
+            ],
+            [
+              108.9506532,
+              34.296046
+            ],
+            [
+              108.9489993,
+              34.296058
+            ]
+          ]
+        ]
+      },
+      "id": "way/971087010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1039520231",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "西安市中医医院"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.9525491,
+              34.3451292
+            ],
+            [
+              108.9525697,
+              34.342721
+            ],
+            [
+              108.9555336,
+              34.3427081
+            ],
+            [
+              108.9554632,
+              34.3451462
+            ],
+            [
+              108.9525491,
+              34.3451292
+            ]
+          ]
+        ]
+      },
+      "id": "way/1039520231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1176354276",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "西安市第三医院"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.9558842,
+              34.3235052
+            ],
+            [
+              108.955852,
+              34.3222913
+            ],
+            [
+              108.9582581,
+              34.322371
+            ],
+            [
+              108.9582626,
+              34.3215692
+            ],
+            [
+              108.9609911,
+              34.3215647
+            ],
+            [
+              108.9609429,
+              34.323483
+            ],
+            [
+              108.9558842,
+              34.3235052
+            ]
+          ]
+        ]
+      },
+      "id": "way/1176354276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1222465369",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "西安市儿童医院经开院区"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.8654261,
+              34.3698407
+            ],
+            [
+              108.86825,
+              34.3702445
+            ],
+            [
+              108.8687662,
+              34.3704038
+            ],
+            [
+              108.8679576,
+              34.3738431
+            ],
+            [
+              108.8646755,
+              34.3733794
+            ],
+            [
+              108.8654261,
+              34.3698407
+            ]
+          ]
+        ]
+      },
+      "id": "way/1222465369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1272338184",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "西安唐城医院",
+        "name:zh": "西安唐城医院"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.9670666,
+              34.2979855
+            ],
+            [
+              108.9685944,
+              34.2979766
+            ],
+            [
+              108.9685965,
+              34.2986272
+            ],
+            [
+              108.9670537,
+              34.2986343
+            ],
+            [
+              108.9670666,
+              34.2979855
+            ]
+          ]
+        ]
+      },
+      "id": "way/1272338184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3463314725",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "武警医院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.8290228,
+          34.2844199
+        ]
+      },
+      "id": "node/3463314725"
+    }
+  ]
+}
